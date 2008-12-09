@@ -4,7 +4,7 @@ Copyright (C) 2008, Mike Green, MIT License
 
 h3. Summary
 
-Pashua Ruby is my attempt at creating an Object Oriented, Ruby-friendly way to create dynamic graphical user interfaces with "Pashua":http://www.bluem.net/downloads/pashua_en/. I'm just got the idea to do this, so obviously nothing useful is here at the moment. So *stay tuned*.
+Pashua Ruby is my attempt at creating an Object Oriented, Ruby-friendly way to create dynamic graphical user interfaces with "Pashua":http://www.bluem.net/downloads/pashua_en/. I just got the idea to do this, so obviously nothing useful is here at the moment. So stay tuned.
 
 h3{color:red}. Important
 

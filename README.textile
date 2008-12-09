@@ -1,0 +1,11 @@
+h2. Pashua Ruby
+
+Copyright (C) 2008, Mike Green, MIT License
+
+h3. Summary
+
+Pashua Ruby is my attempt at creating an Object Oriented, Ruby-friendly way to create dynamic graphical user interfaces with "Pashua":http://www.bluem.net/downloads/pashua_en/. I'm just got the idea to do this, so obviously nothing useful is here at the moment. So *stay tuned*.
+
+h3{color:red}. Important
+
+Although Pashua Ruby is open source, released under the MIT License, "Pashua":http://www.bluem.net/downloads/pashua_en/ itself is not. Although it is freeware, it is not open source. It is *not* bundled in this repository, but you can find it at http://www.bluem.net/downloads/pashua_en/. Pashua Ruby looks for Pashua.app at @/Applications/Pashua/Pashua.app@ by default, but you can change this pretty easily.
